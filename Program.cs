@@ -26,7 +26,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
             time1.second = Convert.ToInt32(Console.ReadLine());
             time1.Display();
 
-
+            
 
 
 
